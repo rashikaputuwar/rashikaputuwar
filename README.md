@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rashika Putuwar.</h1>
 <h3 align="center">A passionate developer.</h3>
 
-- 🔭 I’m currently working on **Contact Management.**
+- 🔭 I’m currently working on **Contact Management**
 
 - 🌱 I’m currently learning **Everything.**
 
-- 👯 I’m looking to collaborate on **open source project.**
+- 👯 I’m looking to collaborate on **open source project**
 
 - 📫 How to reach me **rashikaputuwar@gmail.com**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/rashika__07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashika__07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
