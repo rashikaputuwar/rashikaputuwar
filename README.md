@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashikaputuwar&show_icons=true&locale=en" alt="rashikaputuwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashikaputuwar&" alt="rashikaputuwar" alt="tailwind" width="40" height="40" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashikaputuwar&" alt="rashikaputuwar" width="40" height="40" /></p>
