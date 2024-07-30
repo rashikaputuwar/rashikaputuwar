@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rashika Putuwar.</h1>
 <h3 align="center">A passionate developer.</h3>
 
-- 🔭 I’m currently working on **Contact Management**
+- 🔭 I’m currently working on **Contact Management.**
 
 - 🌱 I’m currently learning **Everything.**
 
-- 👯 I’m looking to collaborate on **open source project**
+- 👯 I’m looking to collaborate on **open source project.**
 
 - 📫 How to reach me **rashikaputuwar@gmail.com**
 
