@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashika Putuwar.</h1>
+<h1 align="center">Hi 👋, I'm Rashika .</h1>
 <h3 align="center">A passionate developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/rashika__07" target="blank"><img src="https://img.shields.io/twitter/follow/rashika__07?logo=twitter&style=for-the-badge" alt="rashika__07" /></a> </p>
@@ -25,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashikaputuwar&show_icons=true&theme=dark&locale=en" alt="rashikaputuwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashikaputuwar&theme=dark" alt="rashikaputuwar" /></p>
