@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rashika__07" target="blank"><img src="https://img.shields.io/twitter/follow/rashika__07?logo=twitter&style=for-the-badge" alt="rashika__07" /></a> </p>
 
-- 🔭 I’m currently working on **Contact Management.**
-
-- 🌱 I’m currently learning **Everything.**
+- 🔭 I’m currently working on **Creating New Things**
 
 - 📫 How to reach me **rashikaputuwar@gmail.com**
 
